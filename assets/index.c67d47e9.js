@@ -9785,7 +9785,7 @@ const bp = [
       cliente: "Sim",
       ap: "Sim",
       garantia: "5 anos",
-      status: "Phaseout",
+      status: "Suporte",
       pagina: "https://www.intelbras.com/pt-br/roteador-wireless-smart-dual-band-action-r1200",
       datasheet: "http://backend.intelbras.com/sites/default/files/2022-07/datasheet_a4_icon_action_r1200_0_0.pdf",
       guia: "https://backend.intelbras.com/sites/default/files/integration/guia_action_r1200_01-18_site.pdf",
